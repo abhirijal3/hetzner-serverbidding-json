@@ -1,0 +1,11 @@
+{
+  "name": "hetzner-serverbidding-json",
+  "version": "1.0.0",
+  "description": "Scrapes Hetzner.de's server bidding page and lists the result by lowest price per TB (Storage).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
